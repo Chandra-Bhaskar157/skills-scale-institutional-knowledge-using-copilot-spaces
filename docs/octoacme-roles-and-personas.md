@@ -126,7 +126,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ### Acceptance Criteria
 
-- [x] Content aligns with existing process docs
-- [x] Update improves clarity or closes a documented gap
+- [ ] Content aligns with existing process docs
+- [ ] Update improves clarity or closes a documented gap
 - [ ] Proposed content has been reviewed with stakeholders (if needed)
 
