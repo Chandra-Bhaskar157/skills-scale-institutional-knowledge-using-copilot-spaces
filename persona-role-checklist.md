@@ -23,7 +23,7 @@ This checklist is designed to help new team members or project participants quic
 
 ## Core Responsibilities
 
-- [ ] Reviewed and understood the “Role Summary” for this persona in `octoacme-roles-and-personas.md`
+- [ ] Reviewed and understood the “Role Summary” for this persona 
 - [ ] Reviewed main responsibilities as outlined in the process docs
 - [ ] Clarified deliverables and expectations for this role in the current project(s)
 - [ ] Identified key success metrics or performance indicators for this role
@@ -67,7 +67,12 @@ This checklist is designed to help new team members or project participants quic
 - [ ] All items above have been reviewed and discussed
 - [ ] Ready to start in-role responsibilities
 
-Signature (Onboarding Lead): ____________________  Date: _____________
-Signature (Onboardee): _________________________  Date: _____________
-
 ---
+
+
+`Signature (Onboarding Lead): _____________________                                       Date: _____________`  
+
+`Signature (Onboardee): ___________________________                                       Date: _____________`  
+
+
+
