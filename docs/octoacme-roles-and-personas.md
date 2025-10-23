@@ -75,7 +75,58 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
-## How these personas are used in the exercise
-- Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
-- Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+#### Scrum Master
+**Role Summary:** Facilitates agile ceremonies, removes impediments, and ensures the team follows agreed processes.
+**Responsibilities:**
+- Lead standups, sprint planning, and retrospectives
+- Coach the team on agile best practices
+- Remove blockers and escalate issues as needed
+- Foster a culture of continuous improvement
+**Interactions:** Works closely with Project Manager, Developers, and Product Manager to keep delivery on track.
+
+---
+
+#### UX Designer
+**Role Summary:** Designs user interfaces and workflows to maximize usability and deliver a positive user experience.
+**Responsibilities:**
+- Create wireframes, prototypes, and user flows
+- Conduct user research and usability testing
+- Collaborate with Developers and Product Manager to refine features
+**Interactions:** Collaborates directly with Product Manager and Developers.
+
+---
+
+#### DevOps Engineer
+**Role Summary:** Manages CI/CD pipelines, infrastructure, and deployment automation.
+**Responsibilities:**
+- Maintain and improve build/release processes
+- Ensure system reliability, scalability, and security
+- Monitor deployments and troubleshoot incidents
+**Interactions:** Works with Developers and QA to streamline releases.
+
+---
+
+#### QA Lead
+**Role Summary:** Owns test strategy and quality assurance for the project.
+**Responsibilities:**
+- Define and communicate test plans and acceptance criteria
+- Coordinate manual and automated testing
+- Track defects and ensure resolution
+**Interactions:** Collaborates with Developers, Project Manager, and DevOps Engineer.
+
+---
+
+#### Business Analyst
+**Role Summary:** Translates business needs into actionable requirements and helps align technical solutions to business goals.
+**Responsibilities:**
+- Gather and document requirements from stakeholders
+- Analyze workflows and recommend improvements
+- Support acceptance testing and validation
+**Interactions:** Liaises between stakeholders, Product Manager, and Developers.
+
+### Acceptance Criteria
+
+- [x] Content aligns with existing process docs
+- [x] Update improves clarity or closes a documented gap
+- [ ] Proposed content has been reviewed with stakeholders (if needed)
 
